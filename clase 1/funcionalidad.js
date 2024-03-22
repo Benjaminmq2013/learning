@@ -1,0 +1,1 @@
+var miVariable = "mi texto..."

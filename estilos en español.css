@@ -1,0 +1,34 @@
+* {
+
+    
+    height: altura;
+    width: anchura;
+
+    font-size: tamaño de letra;
+    font-family: tipo de letra;
+    color: color del texto;
+    background-color: color de fondo;
+    
+    border: borde;
+    border-radius: esquinas redondeadas;
+
+
+
+
+
+    height: altura, 100px;
+    width: anchura, 100px;
+
+    font-size: tamaño de letra, 16px;
+    font-family: tipo de letra, "arial";
+    color: color del texto, violet;
+    background-color: color de fondo, brown;
+    
+    border: borde, 1px solid blue;
+    border-radius: esquinas redondeadas, 7px;
+
+
+    
+
+
+}

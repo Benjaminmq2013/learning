@@ -1,0 +1,27 @@
+img {
+   border-radius: 21px; 
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+
+}
+
+p {
+    width: 565px;
+    font-size: 12px; 
+
+}
+
+h1{
+    font-size: 16px;
+}
+
+label {
+    color:purple;
+}
+
+a {
+    color:red;
+}

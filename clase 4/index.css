@@ -1,0 +1,10 @@
+body {
+    
+}
+
+img {
+    border-radius:10px ;
+    border:6px solid rgb(158, 5, 10);
+    height:300px;
+    width:300px;
+}
