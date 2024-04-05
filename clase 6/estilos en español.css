@@ -5,8 +5,11 @@
     width: anchura;
 
     font-size: tamaño de letra;
-    font-family: tipo de letra;
+    font-family: tipo de letra;    
     color: color del texto;
+    text-align: alineado del texto, center;  
+
+
     background-color: color de fondo;
     
     border: borde;
