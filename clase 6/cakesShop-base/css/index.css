@@ -12,7 +12,7 @@ h3{
 
 .pastel1, .pastel2, .pastel3{
   margin-right: 20px;
-  width: 374px;
+  max-width: 374px;
 }
 
 
