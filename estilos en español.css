@@ -5,8 +5,9 @@
     width: anchura;
 
     font-size: tamaño de letra;
-    font-family: tipo de letra;
+    font-family: tipo de letra;    
     color: color del texto;
+    text-align: alineado del texto, center;  
     background-color: color de fondo;
     
     border: borde;
@@ -14,8 +15,16 @@
 
     margin: margen;
 
+    display: mostrar contenido (flex, block);
+    flex-direction: direccion del contenido (column, row);
+    justify-content: justificar contenido horizontalmente (flex-start, flex-end, center);
+    align-items: alinear elementos verticalmente (flex-start, flex-end, center);
 
 
+
+
+
+    /******** Formas de utilizarlos: */
 
 
     height: altura, 100px;
@@ -28,6 +37,11 @@
     
     border: borde, 1px solid blue;
     border-radius: esquinas redondeadas, 7px;
+
+    margin: 20px;
+
+    display: flex;
+    
 
 
     
