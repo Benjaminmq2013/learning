@@ -1,0 +1,12 @@
+.contenedor{
+    width: 100%;
+    justify-content: center;
+    display:flex
+}
+
+
+.header {
+    background-color: rgb(43, 190, 43);
+    height:80px;
+    width: 600px;
+}
